@@ -1,0 +1,15 @@
+{
+        "search-queries": ["RT csgo", "retweet csgo"],
+        "follow-keywords": [" follow ", " follower "],
+        "fav-keywords": [" fav ", " favorite "],
+        "scan-update-time": 1800,
+        "retweet-update-time": 20,
+        "rate-limit-update-time": 10,
+        "min-ratelimit":10,
+        "min-ratelimit-retweet":20,
+        "min-ratelimit-search":40,
+	"consumer-key": "VMGJawLu70vX6xhpzEEN4jv0l",
+	"consumer-secret": "kXS6y6I6I0KZbmsvmLDidLAatNmeiyjQFKm1WT9ij1TtyEwOFB",
+	"access-token-key": "2655908634-8Exccy25wgNempt1ojyk5pcRMm1Yt4CaKhAI0dQ",
+	"access-token-secret": "YtSfRqX8IP0aMl3CS464oMon2q5HfjV37N5kRy9KVAUz7"
+}

@@ -3,7 +3,7 @@ Will poll for Retweet Contests and retweet them. Inspired by http://www.hscott.n
 
 [![Build Status](https://travis-ci.org/kurozael/twitter-contest-bot.svg?branch=master)](https://travis-ci.org/kurozael/twitter-contest-bot)
 
-Donate
+Donate!
 ------------
 
 If you're feeling kind, feel free to throw some cash my way for a beer!
